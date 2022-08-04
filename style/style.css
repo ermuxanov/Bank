@@ -52,6 +52,10 @@ body {
   margin: 0 auto;
   padding: 0 15px;
 }
+.main__intro-img{
+  display: block;
+  width: 100%;
+}
 .main__intro-title {
   position: absolute;
   top: 37%;
